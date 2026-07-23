@@ -1,2 +1,2 @@
 # spatial_analysis
-This repository contains sample scripts for analyzing Xenium spatial transcriptomics data from the 2026 PCEN Spatial Transcriptomics workshop.
+This repository contains sample scripts for analyzing Xenium spatial transcriptomics data from the 2026 PCEN Spatial Transcriptomics workshop. Please acknowledge The support of  WashU Medicine Pediatric Center of Excellence in Nephrology (PCEN) funded by the National Institutes of Health (NIH) National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) grant P50DK133943.  The analysis pipeline was developed by Stephanie Reinert from Sanjay Jain lab.
